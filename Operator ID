@@ -1,0 +1,12 @@
+  Operator ID │ Carrier / Profile          │ Special Features & Effect
+  ─────────────┼────────────────────────────┼───────────────────────────────────────────────────────────────────────
+   BATL        │ Bharti Airtel (Current)    │ Airtel branding, UI lock, Cell Lock & Band Lock hide 
+               │                            │ bridge mode restricted.
+   NKBC        │ Nokia Broadband Custom     │ The Most Unlocked Profile! Nokia-ude generic carrier profile. DNS
+               │                            │ Override allowed, Bridge Mode ON, full WAN edit allowed, SMS UI
+               │                            │ visible.
+   ALCL        │ Alcatel-Lucent Generic     │ Generic firmware profile with Multi-Bridge WAN support.
+   BHRI        │ Bharti Retail / Enterprise │ Airtel Enterprise profile.
+   BSGS / SHSG │ StarHub (Singapore)        │ StarHub telecom customizations.
+   NKNA        │ Nokia North America        │ US band and CBRS profiles.
+   VCSA / GOMT │ Vodafone / GO Malta        │ European operator profiles.
