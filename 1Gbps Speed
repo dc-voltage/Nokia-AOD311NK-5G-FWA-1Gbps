@@ -1,0 +1,5 @@
+Router (ODU) ---------> Cellular 5G Core (UPF/PGW)
+       |
+       |-- VLAN 1999 (Management / OAM) ---> Limited Bandwidth (40 Mbps QoS)
+       |-- VLAN 0 / 100 (Internet Data) ---> Full Plan Speed (100M / 300M / 1Gbps)
+  #### Why 40 Mbps happens?
